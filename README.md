@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ACL-Modification-and-Logging
-=======
 # ACL-Modification-and-Logging
 Used for automating the process for removing ACL permissions to all but a specific certain named groups. This is completely modularized in functions to allow for easy reuse of code in other projects.
 
@@ -81,4 +78,3 @@ It can handle both removal and adding rights at the same time.
 You will want to make sure you update the global variables before each run. The log file will only append so you won't loss any log of changes but you would overwirte the ACL permissions xml if you kept rerunning lossing those original files.
 
 With any script please ensure this is the right tool for it's use before running it.
->>>>>>> 51cfb66 (Upload of my script and notes on the script in question.)
